@@ -9,7 +9,7 @@ Key Features
 User Authentication & Role-Based Access: Different access levels for Admins, Teachers, and Viewers. AI-Generated Lesson Plans: Automated creation of lesson plans based on uploaded materials. Assessment Materials: Multiple-choice, open-ended questions, essay prompts, and vocabulary exercises. Multilingual Support: Translation and content creation available in various languages, including Azerbaijani, Arabic, Persian, Georgian, Russian, Turkish, Italian, Chinese, Japanese, French, German, Catalan, Hebrew, and others. Gamification & Community Engagement: Leaderboards, badges, and interactive playground activities for teachers. Curriculum Space: Teachers can access and upload curriculum resources.
 
 Tech Stack
-Frontend: React Native for cross-platform mobile development. Backend: Firebase for real-time database, authentication, and storage. AI: OpenAI GPT-4 for content recommendations and lesson planning. APIs: Google Cloud Translation, Text-to-Speech for multilingual support.
+Frontend: React Native for cross-platform mobile development. Backend: Firebase for real-time database, authentication, and storage. AI for content recommendations and lesson planning. APIs: Google Cloud Translation, Text-to-Speech for multilingual support.
 
 Getting Started
 Prerequisites Node.js and npm installed. Firebase account setup.
@@ -29,4 +29,4 @@ Submit a Pull Request
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact Information
-Contact For questions or feedback, contact the project maintainer, Dinara Ibrahimqiz
+Contact For questions or feedback, contact the project maintainer, Dinara Ibrahimqizi

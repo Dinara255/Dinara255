@@ -1,21 +1,26 @@
-# Security Policy
+Security Policy
 
-## Supported Versions
+Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The following versions of Teaching_Organizer are supported with security updates:
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+Version | Supported  
+------- | ----------  
+v1.0.x  | Supported  
+v0.9.x  | Not Supported  
 
-## Reporting a Vulnerability
+Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security vulnerability, please report it immediately by emailing us at:  
+security@teaching-organizer.com
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+We will acknowledge your report within 48 hours and provide updates on the resolution process.
+
+Security Update Policy
+
+- Critical vulnerabilities: Patched within 24-48 hours.
+- Non-critical vulnerabilities: Patched in the next scheduled release.
+
+Contact
+
+For any security-related questions, contact our team at security@teaching-organizer.com.
